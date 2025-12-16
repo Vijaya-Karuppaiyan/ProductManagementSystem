@@ -46,6 +46,8 @@ with CRUD operations and simple UI.
 
 ## Spring Boot Application Running (Eclipse & Console Logs)
 <img width="1350" height="759" alt="image" src="https://github.com/user-attachments/assets/6fd297bb-69d1-46ec-ad14-2eeac4f751b9" />
+
+
 ## Future Enhancements
 - User Authentication & Role Management
 - Pagination & Search for Products
