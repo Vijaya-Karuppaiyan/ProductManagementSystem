@@ -1,0 +1,6 @@
+/* styles.css - optional */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.navbar-brand { font-weight: 600; letter-spacing: 0.2px; }
+.table > tbody > tr > td { vertical-align: middle; }
+
+
